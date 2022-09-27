@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/user-manager/static/js/main.e9f4300c.js",
+    "index.html": "/user-manager/index.html",
+    "main.e9f4300c.js.map": "/user-manager/static/js/main.e9f4300c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e9f4300c.js"
+  ]
+}
